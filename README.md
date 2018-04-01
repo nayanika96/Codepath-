@@ -16,9 +16,8 @@ Time spent: 6 hours spent in total
      <img src="https://github.com/nayanika96/Codepath-/blob/master/xss1.gif" width="800">
   - [ ] Steps to recreate: 
      1. Log in to the admin site
-     1. Post  a comment on the wordpress site using a string of code
-     2. Insert code to the comment: <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
-     3. Edit the comment by replacing it with 64kb of random text 
+     1. Post a comment on the wordpress site using a string of code given in the source code
+     3. Edit the comment by replacing the end of the code with 64kb of random text 
   - [ ] Affected source code:
     - [Link 1](https://klikki.fi/adv/wordpress2.html))
     
@@ -29,10 +28,12 @@ Time spent: 6 hours spent in total
     - Fixed in version: 4.7
   - [ ] GIF Walkthrough: 
   <img src="https://github.com/nayanika96/Codepath-/blob/master/youtubeerror.gif" width="800">
+  
   - [ ] Steps to recreate: 
-       1. Log in on the admin wordpress site
-       2. Create a new post with a youtube link
-       3. Replace the end of the URL with <script>alert('XSS!');</script>
+     1. Log in on the admin wordpress site
+     2. Create a new post with a youtube link
+     3. Replace the end of the URL with <script>alert('XSS!');</script>
+       
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca)
     
@@ -42,7 +43,7 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
-    https://github.com/nayanika96/Codepath-/blob/master/scriptlink.gif
+    <img src="https://github.com/nayanika96/Codepath-/blob/master/scriptlink.gif" width="800">
   - [ ] Steps to recreate: 
      1. Log into admin account on wordpress
      2. Create a post
