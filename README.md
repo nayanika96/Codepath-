@@ -13,7 +13,7 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
-     <img src="Codepath-/scriptlink.gif" width="800">
+     <img src="https://github.com/nayanika96/Codepath-/blob/master/scriptlink.gif" width="800">
   - [ ] Steps to recreate: 
      1. Log in to the admin site
      1. Post  a comment on the wordpress site using a string of code
