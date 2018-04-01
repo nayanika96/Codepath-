@@ -13,7 +13,7 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
-     <img src="https://github.com/nayanika96/Codepath-/blob/master/scriptlink.gif" width="800">
+     <img src="https://github.com/nayanika96/Codepath-/blob/master/xss1.gif" width="800">
   - [ ] Steps to recreate: 
      1. Log in to the admin site
      1. Post  a comment on the wordpress site using a string of code
@@ -28,7 +28,7 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.7
   - [ ] GIF Walkthrough: 
-  
+  <img src="https://github.com/nayanika96/Codepath-/blob/master/youtubeerror.gif" width="800">
   - [ ] Steps to recreate: 
        1. Log in on the admin wordpress site
        2. Create a new post with a youtube link
@@ -42,7 +42,7 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
-  
+    https://github.com/nayanika96/Codepath-/blob/master/scriptlink.gif
   - [ ] Steps to recreate: 
      1. Log into admin account on wordpress
      2. Create a post
