@@ -47,8 +47,7 @@ Time spent: 6 hours spent in total
   - [ ] Steps to recreate: 
      1. Log into admin account on wordpress
      2. Create a post
-     3. Add code to the post, <a href="[caption code=">]</a><a title=" onmouseover=alert('test')  ">link</a> 
-     4. An alert box shows up, this can be further modified by an attacker with a malicious attack.  
+     3. Add code to the post as shown in the source code After submitting the costp, an alert box shows up which can be further modified by an attacker with a malicious attack.  
   - [ ] Affected source code:
     - [Link 1](https://klikki.fi/adv/wordpress3.html))
 
